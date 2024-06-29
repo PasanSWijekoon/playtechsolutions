@@ -94,4 +94,14 @@ Follow these steps to set up the project on your local machine:
 ### Home
  ![Home](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(6).png)
 
+## Image Gallery
+
+Here's a gallery showcasing various aspects of the project:
+
+| ![Image 1](https://github.com/PasanSWijekoon/playtechsolutions/blob/7899cc514bd8651508caec9a45527cfce739ac18/assets/img/1%20(1).png) | ![Image 2](images/image2.png) | ![Image 3](images/image3.png) |
+|:-----------------------------:|:-----------------------------:|:-----------------------------:|
+| **Customer Login Page**       | **Home Page**                 | **Product Listing**           |
+| ![Image 4](images/image4.png) | ![Image 5](images/image5.png) | ![Image 6](images/image6.png) |
+| **Cart and Watchlist**        | **Purchase History**          | **Admin Panel**               |
+
 That's it! Your local setup for the PlayTechSolutions e-commerce web application is now complete. If you encounter any issues, please refer to the project documentation or contact the development team for support.
