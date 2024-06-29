@@ -58,7 +58,7 @@ Follow these steps to set up the project on your local machine:
 
 3. **Configure the Project**
 
-    - Edit `config/config.php` and set your database details:
+    - Edit `includes/connection.php` and set your database details:
     
       ```php
            Database::$connection=new mysqli("localhost","root","password","eShop","3306");
