@@ -88,5 +88,10 @@ Follow these steps to set up the project on your local machine:
 
     - Start your web server and navigate to `http://yourdomain.com` in your browser.
     - You should see the home page of the PlayTechSolutions e-commerce site.
+  
+## Project Images
+
+### Home
+ ![Home]([assets/img/1 (6).png](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(6).png))
 
 That's it! Your local setup for the PlayTechSolutions e-commerce web application is now complete. If you encounter any issues, please refer to the project documentation or contact the development team for support.
