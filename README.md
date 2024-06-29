@@ -98,10 +98,8 @@ Follow these steps to set up the project on your local machine:
 
 Here's a gallery showcasing various aspects of the project:
 
-
-
-
-| ![Image 4](https://github.com/PasanSWijekoon/playtechsolutions/blob/feec3e2ff7462c6d7037136f5b3c1401c4e15206/assets/img/login.png) | ![Image 5](https://github.com/PasanSWijekoon/playtechsolutions/blob/feec3e2ff7462c6d7037136f5b3c1401c4e15206/assets/img/1%20(11).png) | ![Image 6](https://github.com/PasanSWijekoon/playtechsolutions/blob/feec3e2ff7462c6d7037136f5b3c1401c4e15206/assets/img/1%20(10).png) |
-| ![Image 1](https://github.com/PasanSWijekoon/playtechsolutions/blob/feec3e2ff7462c6d7037136f5b3c1401c4e15206/assets/img/1%20(3).png) | ![Image 2]([images/image2.png](https://github.com/PasanSWijekoon/playtechsolutions/blob/feec3e2ff7462c6d7037136f5b3c1401c4e15206/assets/img/1%20(12).png)) | ![Image 3](https://github.com/PasanSWijekoon/playtechsolutions/blob/feec3e2ff7462c6d7037136f5b3c1401c4e15206/assets/img/1%20(2).png) |
+![Image 4](https://github.com/PasanSWijekoon/playtechsolutions/blob/feec3e2ff7462c6d7037136f5b3c1401c4e15206/assets/img/login.png)
+![Home](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(11).png)
+![Home](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(10).png)
 
 That's it! Your local setup for the PlayTechSolutions e-commerce web application is now complete. If you encounter any issues, please refer to the project documentation or contact the development team for support.
