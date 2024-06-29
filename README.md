@@ -100,9 +100,8 @@ Here's a gallery showcasing various aspects of the project:
 
 
 
-| **Customer Login Page**       | **Profile Page**                 | **Single Product**           |
+
 | ![Image 4](https://github.com/PasanSWijekoon/playtechsolutions/blob/feec3e2ff7462c6d7037136f5b3c1401c4e15206/assets/img/login.png) | ![Image 5](https://github.com/PasanSWijekoon/playtechsolutions/blob/feec3e2ff7462c6d7037136f5b3c1401c4e15206/assets/img/1%20(11).png) | ![Image 6](https://github.com/PasanSWijekoon/playtechsolutions/blob/feec3e2ff7462c6d7037136f5b3c1401c4e15206/assets/img/1%20(10).png) |
-| **Cart**        | **Watchlist**          | **Admin Panel**               |
 | ![Image 1](https://github.com/PasanSWijekoon/playtechsolutions/blob/feec3e2ff7462c6d7037136f5b3c1401c4e15206/assets/img/1%20(3).png) | ![Image 2]([images/image2.png](https://github.com/PasanSWijekoon/playtechsolutions/blob/feec3e2ff7462c6d7037136f5b3c1401c4e15206/assets/img/1%20(12).png)) | ![Image 3](https://github.com/PasanSWijekoon/playtechsolutions/blob/feec3e2ff7462c6d7037136f5b3c1401c4e15206/assets/img/1%20(2).png) |
 
 That's it! Your local setup for the PlayTechSolutions e-commerce web application is now complete. If you encounter any issues, please refer to the project documentation or contact the development team for support.
