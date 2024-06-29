@@ -94,12 +94,18 @@ Follow these steps to set up the project on your local machine:
 ### Home
  ![Home](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(6).png)
 
-## Image Gallery
-
-Here's a gallery showcasing various aspects of the project:
 
 ![Image 4](https://github.com/PasanSWijekoon/playtechsolutions/blob/feec3e2ff7462c6d7037136f5b3c1401c4e15206/assets/img/login.png)
 ![Home](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(11).png)
 ![Home](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(10).png)
-
+![Home](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(1).png)
+![Home](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(2).png)
+![Home](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(3).png)
+![Home](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(4).png)
+![Home](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(5).png)
+![Home](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(6).png)
+![Home](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(7).png)
+![Home](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(8).png)
+![Home](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(9).png)
+![Home](https://github.com/PasanSWijekoon/playtechsolutions/blob/cbb4e9ef9f51dc1f32751fbc9cdb877ee2bf4216/assets/img/1%20(12).png)
 That's it! Your local setup for the PlayTechSolutions e-commerce web application is now complete. If you encounter any issues, please refer to the project documentation or contact the development team for support.
